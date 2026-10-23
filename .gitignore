@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.organizer_logs/
+invoices/
+Attachments/
+comments_*.csv
