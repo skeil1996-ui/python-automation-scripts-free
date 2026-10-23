@@ -10,6 +10,12 @@ Five small, free scripts that save time on boring computer work. Pure Python 3.8
 | [Shopify Stock Check](shopify-stock-check/) | Lists products that are running low | One-time list in the terminal | + automatic alerts to Discord / Slack / Telegram / email, per-SKU thresholds – [€29](https://skeilster.gumroad.com/l/shopify-low-stock-bot) |
 | [YouTube Comment Export](youtube-comment-export/) | Exports a video's comments to Excel | Top-level comments, one video | + all replies, whole channels, insights report with your audience's questions – [€24](https://skeilster.gumroad.com/l/youtube-comment-exporter) |
 
+## More tools
+
+- [Duplicate Photo Finder Pro](https://skeilster.gumroad.com/l/nejwxp) – finds exact and near-duplicate photos, dry-run first, quarantine instead of delete – €12
+
+All paid tools: https://skeilster.gumroad.com
+
 ## Quick start
 
 Download this repo (green **Code** button → **Download ZIP**), unzip, open a terminal in the folder.
