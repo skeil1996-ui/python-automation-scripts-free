@@ -12,6 +12,7 @@ Five small, free scripts that save time on boring computer work. Pure Python 3.8
 
 ## More tools
 
+- [Dupe Dir Duplicate Text Finder (free + full)](https://skeilster.gumroad.com/l/jjulwj) – Find near-duplicate text entries across folders of TXT, MD, and CSV files before they clutter your knowledge base.
 - [Git Branch Cleanup Tool (free + full)](https://skeilster.gumroad.com/l/uvpwln) – Safely find and remove stale, already-merged Git branches in one command.
 - [Duplicate Photo Finder Pro](https://skeilster.gumroad.com/l/nejwxp) – finds exact and near-duplicate photos, dry-run first, quarantine instead of delete – €12
 
